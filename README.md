@@ -2,7 +2,7 @@
 
 An endless running game inspired by University of Rochester's mascot Rocky. The game was implemented using Swift for iOS. 
 
-The game got Second place - Silver Joker price in our class' Hackathon. 
+The game got _Second place - Silver Joker price_ in our class' Hackathon. 
 
 ### Gameplay 
 
