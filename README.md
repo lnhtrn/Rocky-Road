@@ -10,4 +10,4 @@ Player plays as Rocky and goes on an endless journey until Rocky hits a bush or 
 
 ### Themes 
 
-The game has three themes: Spring/Summer, Fall and Winter. with different designs for each theme.
+The game has three themes: Spring/Summer, Fall and Winter, with different designs for each theme.
